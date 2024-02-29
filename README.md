@@ -1,6 +1,8 @@
 # 📱 My Awesome Clothing App
 
 Welcome to my super cool Clothing App! This app connects fabric sellers, tailors, and fashion enthusiasts in a seamless and stylish way. Whether you're shopping for fabrics or getting your dream outfit tailored, we've got you covered! 😎
+<img src="https://github.com/Tasneemsherif/Fabric-2-Fit/blob/main/IMG_7852.PNG" alt="Logo" width="300" /> <img src="https://github.com/Tasneemsherif/Fabric-2-Fit/blob/main/IMG_7853.PNG" alt="Logo" width="300"/>
+
 
 ## 🚀 Features
 
